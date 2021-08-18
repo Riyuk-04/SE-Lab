@@ -1,0 +1,8 @@
+#users
+u1: u2, u3, u4
+u2: u1
+u3: u1, u4
+u4: u1, u3
+#groups
+g1: u1, u3, u4
+g2: u1, u2
